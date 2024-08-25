@@ -1,7 +1,7 @@
 # RAG-Text-Audit-System
 ``` streamlit run RAG_2.py ```
 
-# Result
+## Result
 + **If there is relevant information in the original text：**
 <br><img src=https://github.com/user-attachments/assets/10af91de-cac8-487d-aea5-36f587f8f0b1 width=600 height=250 /><br>
 + **Ask a vague question：**
