@@ -1,11 +1,14 @@
 # RAG-Text-Audit-System
 ``` streamlit run RAG_2.py ```
-+ Transformers<br>
++ **Transformers**<br>
 Transformers provide some basic models
 Provide the entire paragraph to the pipeline and receive an answer;
 Give the entire paragraph to the tokenizer AutoTokenizer first
 Send it to AutoModelForSequenceClassification again and get the answer
-+ 
++ **API_test**<br>
+Testing of interfaces for some large language models
++ **visualization**<br>
+Visual interface display based on streamlit and RAG
 ## Result
 + **If there is relevant information in the original text：**
 <br><img src=https://github.com/user-attachments/assets/10af91de-cac8-487d-aea5-36f587f8f0b1 width=600 height=250 /><br>
