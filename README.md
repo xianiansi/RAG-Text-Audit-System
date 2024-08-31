@@ -15,5 +15,9 @@ Visual interface display based on streamlit and RAG
 + **Ask a vague question：**
 <br><img src=https://github.com/user-attachments/assets/76376933-d152-46d1-82f0-49d84a0e248d width=600 height=200 /><br>
 + **Ask a completely unrelated question：**
-<br><img src=https://github.com/user-attachments/assets/05866d70-81dc-4bc3-bfd4-c8da4bee61fa width=600 height=300 /><br>
+<br><img src=https://github.com/user-attachments/assets/05866d70-81dc-4bc3-bfd4-c8da4bee61fa width=600 height=300 /><be>
++ **File Audit System Interface**
+
+
+
 
